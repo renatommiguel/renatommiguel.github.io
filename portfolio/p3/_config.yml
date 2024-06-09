@@ -1,0 +1,5 @@
+title: My Blog
+description: My blog posts
+baseurl: "/blog"
+url: "https://your-username.github.io"
+theme: minima
