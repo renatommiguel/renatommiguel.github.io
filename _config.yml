@@ -1,5 +1,5 @@
 title: My Blog
 description: My blog posts
-baseurl: "/index.html"
+baseurl: "blog/index.html"
 url: "https://www.renatommiguel.com"
 theme: minima
