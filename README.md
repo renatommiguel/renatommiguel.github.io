@@ -1,2 +1,2 @@
 # renatommiguel.github.io
-Github landing page
+This is the landing page of this GitHub org.
